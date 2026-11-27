@@ -1,0 +1,26 @@
+# SodaPeak Product Guide
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /order
+
+# Search and AI-search crawlers (explicitly allowed)
+User-agent: Bingbot
+User-agent: msnbot
+User-agent: Googlebot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Applebot
+User-agent: DuckDuckBot
+Allow: /
+
+# Training-only crawlers: allowed by owner's choice (change to Disallow: / to opt out)
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://soda-peak-reviews.vercel.app/sitemap.xml

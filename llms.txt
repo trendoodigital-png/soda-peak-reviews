@@ -1,0 +1,30 @@
+# SodaPeak Product Guide
+
+> Independent, affiliate-funded information page about SodaPeak, a chewable gummy dietary supplement marketed for male vitality. Not the manufacturer or seller. Facts checked 27 November 2026.
+
+## Key facts
+- Form: chewable gummy; label serving is 1 gummy per day.
+- Each bottle holds 30 gummies, roughly a 30-day supply.
+- No allergen statement on the label; 5 mg caffeine and 3 g added sugar per gummy.
+- No clinical trial of the finished product was found.
+- Label reads "Assembled in the USA" while the sales page claims US manufacture with globally sourced ingredients.
+- Listed ingredients: Muira Puama Extract; Maca Extract; Catuaba Extract; Green Tea Extract; Caffeine 5 mg; Ashwagandha; L-Arginine; Tribulus Terrestris; Horny Goat Weed Extract
+- Package prices shown: 2 Bottles $79/bottle ($9.99 Shipping), 3 Bottles $69/bottle (FREE Shipping), 6 Bottles $49/bottle (FREE Shipping)
+- Seller guarantee: 60 days (seller terms apply)
+- Retailer: BuyGoods
+
+## Main pages
+- [Home](https://soda-peak-reviews.vercel.app/): overview and product information
+- [Ingredients](https://soda-peak-reviews.vercel.app/#ingredients): published ingredients and amounts
+- [Comparison](https://soda-peak-reviews.vercel.app/#comparison): how to compare it with other supplements
+- [Pricing](https://soda-peak-reviews.vercel.app/#pricing): package options
+- [FAQ](https://soda-peak-reviews.vercel.app/#faq): 10 questions
+- [Sources](https://soda-peak-reviews.vercel.app/#sources): educational resources
+
+## Legal
+- [Privacy Policy](https://soda-peak-reviews.vercel.app/privacy-policy/)
+- [Terms of Use](https://soda-peak-reviews.vercel.app/terms-of-use/)
+- [FDA Disclaimer](https://soda-peak-reviews.vercel.app/fda-disclaimer/)
+- [Affiliate Disclosure](https://soda-peak-reviews.vercel.app/affiliate-disclosure/)
+- [Shipping Policy](https://soda-peak-reviews.vercel.app/shipping-policy/)
+- [Refund Policy](https://soda-peak-reviews.vercel.app/refund-policy/)
